@@ -17,7 +17,7 @@ struct MyQuestionAnswerer{
     {
       return "The Cloud."
     }
-      return"?"
+      return"Test"
 }
 }
 
